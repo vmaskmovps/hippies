@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="154.69mm" height="61.648mm" version="1.1" viewBox="0 0 154.69 61.648" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="marker7" overflow="visible" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse" preserveAspectRatio="none" viewBox="0 0 1 1">
+   <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+  <marker id="DartArrow" overflow="visible" markerHeight="1" markerWidth="1" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+   <path d="m3.75 0 2.5 2.5-8.75-2.5 8.75-2.5z" fill="context-stroke" fill-rule="evenodd"/>
+  </marker>
+ </defs>
+ <g transform="translate(-16.894 -46.099)" fill="none" stroke="#f9f9f9">
+  <circle transform="rotate(-90)" cx="-76.923" cy="87.398" r="28.046" stroke-width="5.5562"/>
+  <path d="m59.352 76.923 98.402-1.77e-4m-70.356 1.77e-4 19.844 19.844m-19.844-19.844 19.844-19.844" stroke-width="5.5562"/>
+  <path d="m120.88 76.927h25.414" marker-end="url(#DartArrow)" stroke-width="4.0462"/>
+  <path d="m35.644 76.925h38.676" marker-start="url(#marker7)" stroke-width="4.9914"/>
+ </g>
+</svg>
