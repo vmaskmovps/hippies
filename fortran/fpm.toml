@@ -8,7 +8,8 @@ description = "An implementation of the Knight programming language in Fortran 2
 library = false
 
 [dependencies]
-stdlib = { git = "https://github.com/LKedward/stdlib-fpm.git" }
+[dependencies.stdlib]
+git = "https://github.com/fortran-lang/stdlib"
 
 [[executable]]
 name = "knight"
