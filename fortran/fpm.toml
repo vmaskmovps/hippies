@@ -1,0 +1,22 @@
+
+name = "knight"
+version = "0.1.0"
+license = "GPL-3.0-or-later"
+description = "An implementation of the Knight programming language in Fortran 2008"
+
+[install]
+library = false
+
+[dependencies]
+stdlib = { git = "https://github.com/LKedward/stdlib-fpm.git" }
+
+[[executable]]
+name = "knight"
+source-dir = "app"
+main = "main.f90"
+
+[[test]]
+
+name = "runTests"
+source-dir = "test"
+main = "check.f90"
