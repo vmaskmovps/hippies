@@ -10,6 +10,7 @@ library = false
 [dependencies]
 [dependencies.stdlib]
 git = "https://github.com/fortran-lang/stdlib"
+branch = "stdlib-fpm"
 
 [[executable]]
 name = "knight"
