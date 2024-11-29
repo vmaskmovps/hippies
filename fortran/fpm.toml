@@ -12,6 +12,9 @@ library = false
 git = "https://github.com/fortran-lang/stdlib"
 branch = "stdlib-fpm"
 
+[dependencies.functional]
+git = "https://github.com/wavebitscientific/functional-fortran.git"
+
 [[executable]]
 name = "knight"
 source-dir = "app"
